@@ -1,14 +1,3 @@
-<h2 align="center">AutoScript Install SSH & OpenVPN & V2rayXray & SSR & Trojan & WireGuard For VPS By PrinceNewbie <img src="https://img.shields.io/badge/Version-2.0.5-blue.svg"></h2>
-
-
-<h2 align="center">Supported Linux Distribution</h2>
-
-<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209 & 2010&message=Stretch&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=20.04 LTS&color=red"></p>
-
-<p align="center"><img src="https://img.shields.io/badge/Service-OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-Privoxy-green.svg">   <img
-src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">
-
-
 ## Installation
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray"></img>
@@ -20,13 +9,13 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   ```
  <img src="https://img.shields.io/badge/Install All-VPN%20Batch-green"></img>
  ```html
- wget https://raw.githubusercontent.com/syapik96/aws/main/setup.sh 
+ wget https://raw.githubusercontent.com/78sdtechfi/aws/main/setup.sh 
  chmod +x setup.sh 
  ./setup.sh
  ```
  <img src="https://img.shields.io/badge/Install%20Only-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
  ```html
- wget https://raw.githubusercontent.com/syapik96/aws/main/install/sshonly.sh
+ wget https://raw.githubusercontent.com/78sdtechfi/aws/main/install/sshonly.sh
  chmod +x sshonly.sh  
  ./sshonly.sh
  ```
@@ -38,21 +27,10 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 (to find out what script to install)
 ```
 - Intention guys Important . After Fork , Change this .
-- Attention everyone . There has been a change in the main script recently,
-- the change was not made by the owner (Prince), 
-- it was made by mybro, I'm sorry if there is a failure in the script, 
-- Replace all this with your own acc name :
 
 ```diff
-- GitUser="syapik96"
+- GitUser="78sdtechfi"
 ```
-	    
-- if there is an error not skilled to fix.(hope pull issue).
-- if anyone is proficient in scripting.(hope can spend your time for fixing error)
-- And so For All those used myrepo, if there are any errors in the script, welcome to correct n merge to main-branch
-- i really appreciate, i getting busy this year .	
-- thanks for those fork 
-	 
 
 ## Description
 
